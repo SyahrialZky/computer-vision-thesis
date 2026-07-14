@@ -9,7 +9,7 @@ Proyek ini dirancang secara modular untuk mempermudah eksperimen, evaluasi, hing
 
 ## 📂 Struktur Direktori Proyek
 
-```text
+
 project_root/
 ├── dataset_raw/                     # Data mentah sebelum di-split (Step 1 Input)
 │   ├── real/                        # Citra asli (Kamera, Unsplash, Pexels, dll.)
